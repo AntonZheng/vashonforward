@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/vashonward/static/js/runtime~main.aadf3c3b.js"
   },
   {
-    "revision": "f1899496ed6e2751ad08",
-    "url": "/vashonward/static/js/main.f1899496.chunk.js"
+    "revision": "cd47cc7d9301bba919bb",
+    "url": "/vashonward/static/js/main.cd47cc7d.chunk.js"
   },
   {
     "revision": "4a34e45d34cafb7623bd",
     "url": "/vashonward/static/js/1.4a34e45d.chunk.js"
   },
   {
-    "revision": "f1899496ed6e2751ad08",
-    "url": "/vashonward/static/css/main.d19be0b8.chunk.css"
+    "revision": "cd47cc7d9301bba919bb",
+    "url": "/vashonward/static/css/main.ceb283d8.chunk.css"
   },
   {
-    "revision": "25f7cff5b454559a422057b3c9805351",
+    "revision": "df772dc71f26d0c3cb185d81aed35aa0",
     "url": "/vashonward/index.html"
   }
 ];
